@@ -1,2 +1,2 @@
-type: streamlit
-type: pandas
+streamlit
+pandas
