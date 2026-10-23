@@ -27,7 +27,7 @@ with tabs[2]:
     st.bar_chart(df['Volume'])
 
 # Tab 4: About This Dashboard
-with tab4:
+with tab[3]:
     st.header("About This Dashboard")
     st.write("Created by GiBeom Kim")
     st.write("AC420 - Introduction to Financial Analytics")
